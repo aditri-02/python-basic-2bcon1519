@@ -1,0 +1,122 @@
+Python Basic Programming
+
+Name: Aditri Sadhu  
+GitHub Username: aditri-02  
+Repository Name: python-basic-2bcon1519
+
+Introduction
+
+This repository contains a collection of basic Python programming programs developed by Aditri Sadhu as part of the study and practice of 
+fundamental programming concepts.
+The programs are designed to develop an understanding of Python syntax, programming logic, conditional statements, loops, user input, mathematical operations,
+and basic problem-solving techniques.
+
+## Programs Included
+
+### 1. Calculator
+
+A basic calculator program that performs fundamental arithmetic operations based on user input.
+
+**Concepts Covered:**
+- User input
+- Arithmetic operators
+- Conditional statements
+- Basic Python syntax
+
+### 2. Character Is Alpha
+
+A program that determines whether a given character is an alphabetic character.
+
+**Concepts Covered:**
+- Character handling
+- Conditional statements
+- Input validation
+
+### 3. Factorial
+
+A program that calculates the factorial of a given number.
+
+**Concepts Covered:**
+- Loops
+- Mathematical operations
+- Iterative problem solving
+
+### 4. Fibonacci
+
+A program that generates Fibonacci numbers or a Fibonacci sequence.
+
+**Concepts Covered:**
+- Loops
+- Variables
+- Sequence generation
+- Logical thinking
+
+### 5. Palindrome
+
+A program that checks whether a given number or string is a palindrome.
+
+**Concepts Covered:**
+- Strings and values
+- Comparison
+- Conditional statements
+- Problem-solving logic
+
+### 6. Prime Number
+
+A program that checks whether a given number is a prime number.
+
+**Concepts Covered:**
+- Conditional statements
+- Loops
+- Mathematical logic
+- Number validation
+
+## Learning Objectives
+
+The main objectives of these programs are:
+
+- To understand the fundamentals of Python programming.
+- To develop basic programming and problem-solving skills.
+- To practice the use of variables, operators, conditions, and loops.
+- To understand how mathematical problems can be represented using programs.
+- To improve logical thinking and algorithmic reasoning.
+- To gain practical experience in writing and organizing Python programs.
+- To become familiar with using GitHub for storing and managing source code.
+
+## Skills Demonstrated
+
+This repository demonstrates knowledge of the following Python concepts:
+
+- Variables and data types
+- Input and output operations
+- Arithmetic and logical operators
+- Conditional statements
+- Loops and iteration
+- Character and string handling
+- Mathematical computations
+- Basic algorithmic problem solving
+
+## Future Scope
+
+The programs in this repository represent the initial stage of Python programming practice. Further development can include more advanced concepts such as:
+
+- Functions and modular programming
+- Lists, tuples, sets, and dictionaries
+- File handling
+- Exception handling
+- Object-oriented programming
+- Data structures and algorithms
+- Python-based mini projects
+
+## Conclusion
+
+This repository represents my initial work in Python programming and demonstrates my understanding of fundamental programming concepts. The exercises provide a foundation for developing more advanced programming skills and solving increasingly complex problems.
+
+I intend to continue building on these concepts through further practice, projects, and exploration of advanced Python programming.
+
+## Author
+
+**Aditri Sadhu**
+
+Computer Science Engineering Student
+JECRC University
